@@ -13,6 +13,10 @@
 `first install Userland application from Google-Playstore & open userland & install ubuntu distro & run this cmd inside userland terminal`
 
 ```
+apt update;apt install wget build-essential
+```
+
+```
 mkdir astro && cd astro && wget https://github.com/dero-am/astrobwt-miner/releases/download/V1.8_BETA2/astrominer-V1.8_BETA2_aarch64_linux.tar.gz --no-check-certificate && tar -xvf astrominer-V1.8_BETA2_aarch64_linux.tar.gz
 ```
 

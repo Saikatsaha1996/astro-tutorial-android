@@ -35,7 +35,7 @@ pkg up;pkg upg;
 ```
 
 ```
-apt install build-essential wget git libmicrohttps*
+apt install build-essential wget git libmicrohttpd*
 ```
 
 ```
